@@ -1,0 +1,9 @@
+D:\Project\C#\GradientDescent_LinearRegression\GradientDescent_LinearRegression\bin\Release\GradientDescent_LinearRegression.exe
+D:\Project\C#\GradientDescent_LinearRegression\GradientDescent_LinearRegression\bin\Release\GradientDescent_LinearRegression.pdb
+D:\Project\C#\GradientDescent_LinearRegression\GradientDescent_LinearRegression\bin\Release\ZedGraph.dll
+D:\Project\C#\GradientDescent_LinearRegression\GradientDescent_LinearRegression\obj\Release\ResolveAssemblyReference.cache
+D:\Project\C#\GradientDescent_LinearRegression\GradientDescent_LinearRegression\obj\Release\GradientDescent_LinearRegression.frmMain.resources
+D:\Project\C#\GradientDescent_LinearRegression\GradientDescent_LinearRegression\obj\Release\GradientDescent_LinearRegression.Properties.Resources.resources
+D:\Project\C#\GradientDescent_LinearRegression\GradientDescent_LinearRegression\obj\Release\GradientDescent_LinearRegression.csproj.GenerateResource.Cache
+D:\Project\C#\GradientDescent_LinearRegression\GradientDescent_LinearRegression\obj\Release\GradientDescent_LinearRegression.exe
+D:\Project\C#\GradientDescent_LinearRegression\GradientDescent_LinearRegression\obj\Release\GradientDescent_LinearRegression.pdb

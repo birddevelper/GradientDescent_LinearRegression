@@ -9,3 +9,6 @@ then the program is able to predict Y of any given x based of training data.
 
 
 ![Linear Regression](https://m-shaeri.ir/blog/wp-content/uploads/2021/05/GradiantDicent.gif)
+
+
+[Read More](http://m-shaeri.ir/blog/gradient-descent-algorithm-for-linear-regression/)

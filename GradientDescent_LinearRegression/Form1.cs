@@ -96,6 +96,9 @@ namespace GradientDescent_LinearRegression
             Trining_Graph.GraphPane.XAxis.Scale.Max = 20;
         }
 
+
+
+
         private void btn_predict_Click(object sender, EventArgs e)
         {
             double x=Double.Parse(txt_x.Text);
@@ -110,7 +113,7 @@ namespace GradientDescent_LinearRegression
 
 
         }
-
+        // add a single point to the graph pane. 
         private void btn_adddata_Click(object sender, EventArgs e)
         {
             double x = Double.Parse(txt_xdata.Text);
@@ -124,6 +127,7 @@ namespace GradientDescent_LinearRegression
             Trining_Graph.Invalidate();
         }
 
+         // clear the points list and also graph pane
         private void btn_clear_Click(object sender, EventArgs e)
         {
              Data_pointsList.Clear();

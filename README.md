@@ -8,10 +8,10 @@ You can add train data either by entering number in text box or by clicking on t
 The click on "start training" to make the regression model,
 then the program is able to predict y of any given x based of training data.
 
-[Read More From Here](http://m-shaeri.ir/blog/gradient-descent-algorithm-for-linear-regression/)
+[Read More From Here](http://mshaeri.com/blog/gradient-descent-algorithm-for-linear-regression/)
 
 
-![Linear Regression](https://m-shaeri.ir/blog/wp-content/uploads/2021/05/GradiantDicent.gif)
+![Linear Regression](https://mshaeri.com/blog/wp-content/uploads/2021/05/GradiantDicent.gif)
 
 
 
